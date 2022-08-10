@@ -1,2 +1,2 @@
 # Idle_Action_Farm
-Test project for Dorfer Games OU
+Test project for the Dorfer Games OU
